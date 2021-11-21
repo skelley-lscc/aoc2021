@@ -1,0 +1,2 @@
+type "source bin/activate" to activate the virtual environment
+import sdl2, numpy, scipy to use graphics
